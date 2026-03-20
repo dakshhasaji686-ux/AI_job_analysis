@@ -25,7 +25,7 @@ The dataset contains the following columns:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas  
 - Matplotlib / Seaborn  
